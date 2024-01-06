@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I struggled to code "Hello World!"
 
-![clown](https://github.com/getajobyoubum/getajobyoubum/assets/100882037/b6c64cc7-8159-48d5-8598-e995a630f111)
+![tumblr_o41ohpppDH1qc2306o1_1280](https://github.com/getajobyoubum/getajobyoubum/assets/100882037/70049834-e768-478b-ae9f-b002f8446d1e)
