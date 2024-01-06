@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I struggled to code "Hello World!"
 -->
 
-- 🔭 I’m currently working on ... nothing :(
-- 🌱 I’m currently learning ... how to juggle (like a clown)
-- 👯 I’m looking to collaborate on ... everything!
-- 🤔 I’m looking for help with ... everything
-- 💬 Ask me about ... being a lazy coder
+- 🔭 I’m currently working on nothing :(
+- 🌱 I’m currently learning how to juggle (like a clown)
+- 👯 I’m looking to contribute to society
+- 🤔 I’m looking for help with life
+- 💬 Ask me about being a lazy coder
 - 📫 How to reach me: uhhhhh
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I struggled to code "Hello World!"
