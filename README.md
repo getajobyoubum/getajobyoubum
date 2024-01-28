@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to contribute to society
 - 🤔 I’m looking for help with life
 - 💬 Ask me about being a lazy coder
-- 📫 How to reach me: uhhhhh
+- 📫 How to reach me: uhhhhh - please don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I struggled to code "Hello World!"
 
