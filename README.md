@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I struggled to code "Hello World!"
 -->
-
+This is a place where I keep my junk. No cool projects to see here.
 - 🔭 I’m currently working on nothing :(
 - 🌱 I’m currently learning how to juggle (like a clown)
 - 👯 I’m looking to contribute to society
